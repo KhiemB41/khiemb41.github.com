@@ -27,9 +27,7 @@ all technical services.</p>
 
 <p><mark>Others:</mark> Familiar with project management tool like Jira, Confluence page.</p>
 
- 
-
- 
+  
 </body>
 
 </html>
